@@ -9,6 +9,9 @@ reasons. Two more primary reasons are the potential of LLM technologies to be im
 weapon systems and the destruction of the job market. 
 
 Here are my public Github projects that showcase the use of mainstream LLMs: 
+- [Crumbs for the Far-Right, the Far-Right for Crumbs](https://github.com/Changissnz/crumbs_for_the_far-right__the_far-right_for_crumbs__claude_generated)
+  - source: Claude Sonnet 4.6
+  - A fictional briefing of the far-right and American President Crumbs.
 - [Brittania, Corporatism, and Schinia](https://github.com/Changissnz/brittania_corporatism_and_schinia__claude_generated)
   - source: Claude Sonnet 4.6
   - A fictional account about Brittania in the context of corporatist arrangements yielding Schinia more and Brittania less.
