@@ -9,6 +9,9 @@ reasons. Two more primary reasons are the potential of LLM technologies to be im
 weapon systems and the destruction of the job market. 
 
 Here are my public Github projects that showcase the use of mainstream LLMs: 
+- [Brittania, Corporatism, and Schinia](https://github.com/Changissnz/brittania_corporatism_and_schinia__claude_generated)
+  - source: Claude Sonnet 4.6
+  - A fictional account about Brittania in the context of corporatist arrangements yielding Schinia more and Brittania less.
 - [In America, Corruption is American, With or Without Crumbs](https://github.com/Changissnz/in_america_corruption_is_american_with_or_without_crumbs__claude_generated)
   - source: Claude Sonnet 4.6
   - An account of the fictional American President Crumbs' rule, equivocating him with former liberal leaders and also explaining why there was no way the U.S. could return back to the liberal order. 
