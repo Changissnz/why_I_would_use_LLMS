@@ -11,7 +11,7 @@ weapon systems and the destruction of the job market.
 Here are my public Github projects that showcase the use of mainstream LLMs: 
 - [In America, Corruption is American, With or Without Crumbs](https://github.com/Changissnz/in_america_corruption_is_american_with_or_without_crumbs__claude_generated)
   - source: Claude Sonnet 4.6
-  - An account of the fictional American President Crumbs' rule, equivocating him with former liberal leaders and also explaining why there was no way the U.S. can return back to the liberal order. 
+  - An account of the fictional American President Crumbs' rule, equivocating him with former liberal leaders and also explaining why there was no way the U.S. could return back to the liberal order. 
 - [Kriistianos Fernando Hernando Huevas, Member of MS-23](https://github.com/Changissnz/kriistianos_fernando_hernando_huevas_member_of_ms-23__grok_generated)
   - source: Grok
   - A fictional story revolving around Kriistianos's intimate encounter.
