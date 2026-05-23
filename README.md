@@ -9,6 +9,9 @@ reasons. Two more primary reasons are the potential of LLM technologies to be im
 weapon systems and the destruction of the job market. 
 
 Here are my public Github projects that showcase the use of mainstream LLMs:
+- [A Reiteration of the Claim on the Left's Failures](https://github.com/Changissnz/a_reiteration_of_the_claim_on_the_left-s_failures__claude_generated)
+  - source: Claude Sonnet 4.6
+  - A fictional critique on what went wrong with America's left, and why making it right would make it no longer left. 
 - [Cults of Personality During the Second Quarter of the 21st](https://github.com/Changissnz/cults_of_personality_during_the_second_quarter_of_the_21st__claude_generated)
   - source: Claude Sonnet 4.6
   - A fictional characterization of growing power bestowed to personality cults, during the emergence of large-scale artificial intelligence.
