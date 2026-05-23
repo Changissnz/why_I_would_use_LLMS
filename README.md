@@ -8,7 +8,10 @@ There are concerns about the rise of LLMs. Specifically, energy usage and cognit
 reasons. Two more primary reasons are the potential of LLM technologies to be implemented into autonomous lethal 
 weapon systems and the destruction of the job market. 
 
-Here are my public Github projects that showcase the use of mainstream LLMs: 
+Here are my public Github projects that showcase the use of mainstream LLMs:
+- [Cults of Personality During the Second Quarter of the 21st](https://github.com/Changissnz/cults_of_personality_during_the_second_quarter_of_the_21st__claude_generated)
+  - source: Claude Sonnet 4.6
+  - A fictional characterization of growing power bestowed to personality cults, during the emergence of large-scale artificial intelligence.
 - [Crumbs for the Far-Right, the Far-Right for Crumbs](https://github.com/Changissnz/crumbs_for_the_far-right__the_far-right_for_crumbs__claude_generated)
   - source: Claude Sonnet 4.6
   - A fictional briefing of the far-right and American President Crumbs.
