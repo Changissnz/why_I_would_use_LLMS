@@ -9,6 +9,9 @@ reasons. Two more primary reasons are the potential of LLM technologies to be im
 weapon systems and the destruction of the job market. 
 
 Here are my public Github projects that showcase the use of mainstream LLMs:
+- [It is Hard Feeling Sorry for an American](https://github.com/Changissnz/it_is_hard_feeling_sorry_for_an_american__claude_generated)
+  - source: Claude Sonnet 4.6
+  - An overview of the sentiment of apathy in a fictional America. 
 - [Han-Ri and Maiden-Dick Veerashnu Agree on Liberties](https://github.com/Changissnz/han-ri_and_maiden-dick_veerashnu_agree_on_liberties__claude_generated)
   - source: Claude Sonnet 4.6
   - Another story about Han-Ri and Maiden-Dick as they settle on some terms to continue their marriage. 
