@@ -9,6 +9,9 @@ reasons. Two more primary reasons are the potential of LLM technologies to be im
 weapon systems and the destruction of the job market. 
 
 Here are my public Github projects that showcase the use of mainstream LLMs:
+- [Han-Ri and Maiden-Dick Veerashnu Agree on Liberties](https://github.com/Changissnz/han-ri_and_maiden-dick_veerashnu_agree_on_liberties__claude_generated)
+  - source: Claude Sonnet 4.6
+  - Another story about Han-Ri and Maiden-Dick as they settle on some terms to continue their marriage. 
 - [A Reiteration of the Claim on the Left's Failures](https://github.com/Changissnz/a_reiteration_of_the_claim_on_the_left-s_failures__claude_generated)
   - source: Claude Sonnet 4.6
   - A fictional critique on what went wrong with America's left, and why making it right would make it no longer left. 
