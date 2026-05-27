@@ -9,6 +9,7 @@ reasons. Two more primary reasons are the potential of LLM technologies to be im
 weapon systems and the destruction of the job market. 
 
 Here are my public Github projects that showcase the use of mainstream LLMs:
+- [The Villains That Showed Themselves During the Rule of Crumbs](https://github.com/Changissnz/the_villains_that_showed_themselves_during_the_rule_of_crumbs__claude_generated)
 - [How Richard Pham Killed Sigyn Thornprikkensen](https://github.com/Changissnz/how_richard_pham_killed_sigyn_thornprikkensen__claude_generated)
   - source: Claude Sonnet 4.6
   - A fictional tale elaborating on the days of preparation Richard Pham took to kill Sigyn Thornprikkensen, only for there to be a plot twist. 
