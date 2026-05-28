@@ -10,6 +10,8 @@ weapon systems and the destruction of the job market.
 
 Here are my public Github projects that showcase the use of mainstream LLMs:
 - [What Populist Power Was Like Under President Crumbs](https://github.com/Changissnz/what_populist_power_was_like_under_president_crumbs__claude_generated)
+  - source: Claude Sonnet 4.6
+  - A fictional synopsis of the populist politics of American President Crumbs, drawing in trends and events from other stories.
 - [The Villains That Showed Themselves During the Rule of Crumbs](https://github.com/Changissnz/the_villains_that_showed_themselves_during_the_rule_of_crumbs__claude_generated)
   - source: Claude Sonnet 4.6
   - A fictional perspective that insinuates the villainy fostering under the fourth quarter of the rule of American President Crumbs.
