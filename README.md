@@ -9,6 +9,9 @@ reasons. Two more primary reasons are the potential of LLM technologies to be im
 weapon systems and the destruction of the job market. 
 
 Here are my public Github projects that showcase the use of mainstream LLMs:
+- [Second Quarter of the 21st: So Much for the Age of Reason](https://github.com/Changissnz/second_quarter_of_the_21st__so_much_for_the_age_of_reason__claude_generated)
+  - source: Claude Sonnet 4.6
+  - A fictional commentary on the humanist trends underlying the 2nd quarter of the 21st century. 
 - [The Case of Kimboyfon Part 2: Who is Dumb or Dumber](https://github.com/Changissnz/the_case_of_kimboyfon_part_2__who_is_dumb_or_dumber__claude_generated)
   - source: Claude Sonnet 4.6
   - A follow-up to the fictional account of Kimboyfon, a peculiar American of Schinian heritage.
