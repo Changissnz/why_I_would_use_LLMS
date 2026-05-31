@@ -9,6 +9,9 @@ reasons. Two more primary reasons are the potential of LLM technologies to be im
 weapon systems and the destruction of the job market. 
 
 Here are my public Github projects that showcase the use of mainstream LLMs:
+- [Rampancy Metastasized During the Second Quarter of the 21st](https://github.com/Changissnz/rampancy_metastasized_during_the_second_quarter_of_the_21st__claude_generated)
+  - source: Claude Sonnet 4.6
+  - A fictional account that is a more techno-theological bend on what was discussed in "Bad Blood Turned Toxic Under Crumbs" and "Feelings Grew Hard Under the Rule of Crumbs".
 - [Brittania's Relationship with Thrace During Its Decline](https://github.com/Changissnz/brittania-s_relationship_with_thrace_during_its_decline)
   - source: Claude Sonnet 4.6
   - A fictional report on the Thracian challenge to Brittania, starting around the second quarter of the 21st century.
