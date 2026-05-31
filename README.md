@@ -9,6 +9,9 @@ reasons. Two more primary reasons are the potential of LLM technologies to be im
 weapon systems and the destruction of the job market. 
 
 Here are my public Github projects that showcase the use of mainstream LLMs:
+- [Brittania's Relationship with Thrace During Its Decline](https://github.com/Changissnz/brittania-s_relationship_with_thrace_during_its_decline)
+  - source: Claude Sonnet 4.6
+  - A fictional report on the Thracian challenge to Brittania, starting around the second quarter of the 21st century.
 - [Second Quarter of the 21st: So Much for the Age of Reason](https://github.com/Changissnz/second_quarter_of_the_21st__so_much_for_the_age_of_reason__claude_generated)
   - source: Claude Sonnet 4.6
   - A fictional commentary on the humanist trends underlying the 2nd quarter of the 21st century. 
