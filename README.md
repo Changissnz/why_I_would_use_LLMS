@@ -9,6 +9,9 @@ reasons. Two more primary reasons are the potential of LLM technologies to be im
 weapon systems and the destruction of the job market. 
 
 Here are my public Github projects that showcase the use of mainstream LLMs:
+- [Where Brittania Fit in the Age of Emotions](https://github.com/Changissnz/where_brittania_fit_in_the_age_of_emotions__claude_generated)
+  - source: Claude Sonnet 4.6
+  - A fictional account of Brittania's emotions during the second quarter of the 21st century.
 - [Rampancy Metastasized During the Second Quarter of the 21st](https://github.com/Changissnz/rampancy_metastasized_during_the_second_quarter_of_the_21st__claude_generated)
   - source: Claude Sonnet 4.6
   - A fictional account that is a more techno-theological bend on what was discussed in "Bad Blood Turned Toxic Under Crumbs" and "Feelings Grew Hard Under the Rule of Crumbs".
