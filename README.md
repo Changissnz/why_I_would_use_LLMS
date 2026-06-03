@@ -9,6 +9,9 @@ reasons. Two more primary reasons are the potential of LLM technologies to be im
 weapon systems and the destruction of the job market. 
 
 Here are my public Github projects that showcase the use of mainstream LLMs:
+- [The Gay Cousin of Hector Ortega](https://github.com/Changissnz/the_gay_cousin_of_hector_ortega__claude_generated)
+  - source: Claude Sonnet 4.6
+  - A fictionalized story about a relative of Hector Ortega, casual conversation his way.
 - [The Left-Wing Knew How to Copy](https://github.com/Changissnz/the_left-wing_knew_how_to_copy__claude_generated)
   - source: Claude Sonnet 4.6
   - A fictional synopsis of how the left-wing made up after getting left behind.
