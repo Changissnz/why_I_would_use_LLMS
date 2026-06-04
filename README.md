@@ -9,6 +9,9 @@ reasons. Two more primary reasons are the potential of LLM technologies to be im
 weapon systems and the destruction of the job market. 
 
 Here are my public Github projects that showcase the use of mainstream LLMs:
+- [Some Accounts of American Idiocy During the Second Quarter of the 21st](https://github.com/Changissnz/some_accounts_of_american_idiocy_during_the_second_quarter_of_the_21st__claude_generated)
+  - source: Claude Sonnet 4.6
+  - A fictional narration of specific cases associated with the American left-wing, during the second quarter of the 21st century. 
 - [The Learned Ones Had Some Things Down](https://github.com/Changissnz/the_learned_ones_had_some_things_down__claude_generated)
   - source: Claude Sonnet 4.6
   - A fictional reporting on the suspected foreign leaders behind some left-wing movements occurring in the West, during the second quarter of the 21st century. 
