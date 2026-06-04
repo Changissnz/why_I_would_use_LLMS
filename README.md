@@ -9,6 +9,9 @@ reasons. Two more primary reasons are the potential of LLM technologies to be im
 weapon systems and the destruction of the job market. 
 
 Here are my public Github projects that showcase the use of mainstream LLMs:
+- [The Situation Surrounding Khamarooney Torreanos](https://github.com/Changissnz/the_situation_surrounding_khamarooney_torreanos__claude_generated)
+  - source: Claude Sonnet 4.6
+  - A fictionalized elaboration on the circumstances surrounding the character of Khamarooney and the FIA.
 - [Some Accounts of American Idiocy During the Second Quarter of the 21st](https://github.com/Changissnz/some_accounts_of_american_idiocy_during_the_second_quarter_of_the_21st__claude_generated)
   - source: Claude Sonnet 4.6
   - A fictional narration of specific cases associated with the American left-wing, during the second quarter of the 21st century. 
