@@ -9,6 +9,9 @@ reasons. Two more primary reasons are the potential of LLM technologies to be im
 weapon systems and the destruction of the job market. 
 
 Here are my public Github projects that showcase the use of mainstream LLMs:
+- [Steel, Silver, and Snakes Wearing Gold Crosses](https://github.com/Changissnz/steel_silver_and_snakes_wearing_gold_crosses__claude_generated)
+  - source: Claude Sonnet 4.6
+  - A fictionalized overview of the broad interests at play in the United States during the 21st century.
 - [The Situation Surrounding Khamarooney Torreanos](https://github.com/Changissnz/the_situation_surrounding_khamarooney_torreanos__claude_generated)
   - source: Claude Sonnet 4.6
   - A fictionalized elaboration on the circumstances surrounding the character of Khamarooney and the FIA.
