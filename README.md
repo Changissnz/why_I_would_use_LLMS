@@ -9,7 +9,7 @@ reasons. Two more primary reasons are the potential of LLM technologies to be im
 weapon systems and the destruction of the job market. 
 
 Here are my public Github projects that showcase the use of mainstream LLMs:
-- [Oafer Neighdell Met Death](https://github.com/Changissnz/oafer_neighell_met_death__claude_generated)
+- [Oafer Neighell Met Death](https://github.com/Changissnz/oafer_neighell_met_death__claude_generated)
   - source: Claude Sonnet 4.6
   - A fictional story about a man reaching retirement age, a political agent whose life got cut short.
 - [Steel, Silver, and Snakes Wearing Gold Crosses](https://github.com/Changissnz/steel_silver_and_snakes_wearing_gold_crosses__claude_generated)
