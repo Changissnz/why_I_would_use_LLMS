@@ -9,6 +9,9 @@ reasons. Two more primary reasons are the potential of LLM technologies to be im
 weapon systems and the destruction of the job market. 
 
 Here are my public Github projects that showcase the use of mainstream LLMs:
+- [The Left, the Right, and What Difference It Made](https://github.com/Changissnz/the_left_the_right_and_what_difference_it_made__claude_generated)
+  - source: Claude Sonnet 4.6
+  - A fictionalized analysis of the left-wing and the right-wing, in the midst of trends in political economy during the second quarter of the 21st century.
 - [Oafer Neighell Met Death](https://github.com/Changissnz/oafer_neighell_met_death__claude_generated)
   - source: Claude Sonnet 4.6
   - A fictional story about a man reaching retirement age, a political agent whose life got cut short.
