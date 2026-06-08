@@ -9,6 +9,9 @@ reasons. Two more primary reasons are the potential of LLM technologies to be im
 weapon systems and the destruction of the job market. 
 
 Here are my public Github projects that showcase the use of mainstream LLMs:
+- [Of Insults and Boomerangs](https://github.com/Changissnz/of_insults_and_boomerangs__claude_generated)
+  - source: Claude Sonnet 4.6
+  - A fictionalized political analysis of the darkness underneath Western civility during the second quarter of the 21st century.
 - [Richard Phan Had a Girlfriend Named Jaillion Mahtenahzi](https://github.com/Changissnz/richard_phan_had_a_girlfriend_named_jaillion_mahtenahzi__claude_generated)
   - source: Claude Sonnet 4.6
   - A fictional background story about a minor character in another story about Khamarooney Torreanos.
